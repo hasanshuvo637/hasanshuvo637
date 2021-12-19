@@ -6,7 +6,7 @@
 ![mc (2)](https://user-images.githubusercontent.com/96339833/146676272-a596f383-6bc0-4d25-a3a7-06e0b7b9929d.jpg)
 
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">💕 A passionate frontend developer from Bangladesh 💕</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanshuvo637&label=Profile%20views&color=0e75b6&style=flat" alt="hasanshuvo637" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanshuvo637" alt="hasanshuvo637" /></a> </p>
