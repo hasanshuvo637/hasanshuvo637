@@ -3,7 +3,7 @@
 
 <h2 align="center"> 💕🤞  I'm Jahid Hasan Shuvo   💕🤞</h2>
 
-![mc](https://user-images.githubusercontent.com/96339833/146675890-1becaf1e-cb9b-4551-85f0-71033d29deaa.jpg)
+![mc (2)](https://user-images.githubusercontent.com/96339833/146676272-a596f383-6bc0-4d25-a3a7-06e0b7b9929d.jpg)
 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
